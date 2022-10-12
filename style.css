@@ -1,0 +1,36 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: rgb(107, 161, 180);
+}
+
+.heading
+{
+    width: 80%;
+    font-size:24px;
+
+}
+
+.name_of_object
+{
+    color: rgb(154, 113, 192);
+}
+
+#camera
+{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 350;
+    height: 300px;
+}
+
+.name_of_object,#result_object_name
+{
+    color: rgb(154, 113, 192);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy
+{
+    color: rgb(255, 255, 255);
+}
+
